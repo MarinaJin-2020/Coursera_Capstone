@@ -2,13 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
-
-print("test jupyter")
-
-
+import pandas as pd 
+import numpy as np
+print("Hello Capstone Project Course!")
 # In[ ]:
-
-
-
-
