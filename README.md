@@ -1,2 +1,2 @@
-# Coursera_practice
-practices/capstone projects done for coursera
+# Coursera_Capstone
+This repository contains practices/capstone projects done for coursera
